@@ -23,12 +23,12 @@ over Goren The Useless.
 1. Get reward for Worst. Performance. Ever. Pick up The Show Must Go On.
 1. Talk to Theatre Manager Daudi.
 1. Enter the Amphitheater
-1. Wait for Bahskir to finish talking and talk to him
+1. Wait for Bahskir to finish talking and talk to him to advance
+   Norgu's Nightfall.
 1. Go back to Resplendent Makuun and talk to Prince Bokka.
 1. Accept the reward for Norgu's Nightfall. Jin should be level 12 now.
 1. Go to Chantry of Secrets. Add Goren to the party.
 1. Unlock Gate of Anguish
 1. Get Finding a Purpose from Chaplain Prettyass
-1. Go to the Heart of Abbadon
-...
+1. Go to the Heart of Abbadon and pick up Razah.
 
