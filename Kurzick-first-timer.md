@@ -1,4 +1,4 @@
-Kurzick first-timer guide.
+# Kurzick first-timer guide.
 
 * Arrive at HzH
 * Get the "Melodic Gaki Flute" quest from Vasili Lutgardis
