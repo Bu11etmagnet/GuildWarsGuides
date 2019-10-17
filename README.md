@@ -1,2 +1,2 @@
 # GuildWarsGuides
-Guides for performing various tasks in Gild Wars
+Guides for performing various tasks in Guild Wars
