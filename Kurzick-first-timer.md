@@ -35,8 +35,12 @@ reducing the need for backtracking.
 1. Go under (to the South of) the cathedral and follow "The Beak of Darkness" to Ruprecht Br.
 1. Switch to "Discord Wallow Lyre". Find it and kill it. Follow the quest marker through St Anjeka.
 1. Go to HzH and turn in "Discord Wallow Lyre". Pick up "Rhythm Drinker Drum".
+   Go to Lutgardis, exit into Melandru's Hope and cross the bridge
+   to the other side of the river. Kill the Rhythm Drinker and get its wing.
 
-
+TODO: Jun in HzH offers Artistic Endeavors. The Sly Dredge is closest to
+Jade Flats (Kurzick), but it's on the opposite (west) side from where we reach
+Jade Flats.
 
 + Eternal Grove
 * Get the "Invoking the Saints" quest from Count zH
