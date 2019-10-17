@@ -1,5 +1,11 @@
 # Kurzick first-timer guide.
 
+A guide for players who just arrived at House zu Helzer
+(Journey to House zu Heltzer after Sunjiang District).
+
+There are many quests in the Echovald Forest. Some could be done simultaneously,
+reducing the need for backtracking.
+
 * Arrive at HzH
 * Get the "Melodic Gaki Flute" quest from Vasili Lutgardis
 * Get the "Ancient Forest" quest from Scholar Andrej
@@ -11,7 +17,8 @@
 * Exit into Ferndale
 * Get the "Kurzick supply lines" quest from Supplymaster Konrad
 * Go right to the Melodic Gaki and get its horn
-* Continue to the "Experimental Weaponsmith" / "The Beak of Darkness"
+* Continue to the "Experimental Weaponsmith" / "The Beak of Darkness".
+  Watch out for Oni popups.
 * Follow the "Kurzick supply lines" quest, get the reward and enter Lutgardis Conservatory
 * Exit into Melandru's Hope and go right until Brauer Academy
 * Exit back into Melandru's Hope and follow "The Beak of Darkness"
