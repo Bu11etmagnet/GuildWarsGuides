@@ -1,0 +1,86 @@
+graph Kryta {
+	label = "This! Is! Krytaaaaaaaaaaa!"
+	labelloc = t
+
+// Towns and outposts
+
+    "Lion's Arch" [ shape = doubleoctagon ] // (port town)
+    Beetletun
+    "Bergen Hot Springs"
+    "Fishermen's Haven"
+    "Temple of the Ages"
+	// "gate" to maguuma
+	//"Druid's Overlook => Maguuma"
+	"Druid's Overlook"
+	
+	"Maguuma" [ shape = egg ]
+
+// Mission outposts:
+	node [ shape = invhouse ]
+
+    "D'Alessio Seaboard"
+    "Divinity Coast"
+    "Gates of Kryta"
+    "Riverside Province"
+    "Sanctum Cay"
+
+
+// Explorable areas
+	node [ shape = rectangle ]
+
+    "Cursed Lands"
+    "Kessex Peak"
+    "Lion's Gate"
+    "Majesty's Rest"
+    "Nebo Terrace"
+    "North Kryta Province"
+    "Scoundrel's Rise"
+    "Stingray Strand"
+    "Talmark Wilderness"
+    "Tears of the Fallen"
+    "The Black Curtain"
+    "Twin Serpent Lakes"
+    "Watchtower Coast"
+
+// Connnections
+	"Scoundrel's Rise" -- "Gates of Kryta"
+	"Scoundrel's Rise" -- "North Kryta Province"
+	"North Kryta Province" -- "Lion's Arch"
+	"Gates of Kryta" -- "Lion's Arch" [ style = dotted, label = "mission", dir = forward ] // Completing the 
+	"Lion's Arch" -- "Lion's Gate"
+	
+	"North Kryta Province" -- "D'Alessio Seaboard"
+	"North Kryta Province" -- "Nebo Terrace"
+	
+	"D'Alessio Seaboard" -- "Divinity Coast" [ style = dotted, label = "mission", dir = forward ] // Completing the 
+	//"Divinity Coast" -- "Druid's Overlook => Maguuma" [ style = dotted, label = "mission", dir = forward ] // Completing the 
+	"Divinity Coast" -- "Druid's Overlook" [ style = dotted, label = "mission", dir = forward ]
+	"Druid's Overlook" -- "Maguuma"
+	
+	"Nebo Terrace" -- Beetletun
+	"Nebo Terrace" -- "Bergen Hot Springs"
+	"Nebo Terrace" -- "Cursed Lands"
+	
+	Beetletun -- "Watchtower Coast"
+	"Watchtower Coast" -- "Divinity Coast"
+	
+	"Cursed Lands" -- "The Black Curtain"
+	
+	"The Black Curtain" -- "Kessex Peak"
+	"The Black Curtain" -- "Talmark Wilderness"
+	"The Black Curtain" -- "Temple of the Ages"
+	
+	"Maguuma" -- "Riverside Province" [ dir = forward ]
+	"Riverside Province" -- "Twin Serpent Lakes"
+	"Twin Serpent Lakes" -- "Tears of the Fallen"
+	"Riverside Province" -- "Sanctum Cay" [ style = dotted, label = "mission", dir = forward ]
+	
+	"Tears of the Fallen" -- "Stingray Strand"
+	"Tears of the Fallen" -- "Talmark Wilderness"
+	
+	"Talmark Wilderness" -- "Majesty's Rest"
+	"Talmark Wilderness" -- "The Back Curtain"
+
+	"Stingray Strand" -- "Fishermen's Haven"
+	"Stingray Strand" -- "Sanctum Cay"
+}

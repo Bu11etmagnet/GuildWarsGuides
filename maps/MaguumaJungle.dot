@@ -1,0 +1,64 @@
+graph Maguuma {
+    // Towns and outposts
+
+    "Henge of Denravi"  [ shape = doubleoctagon ] // (town)
+    "Druid's Overlook"
+    "Maguuma Stade"
+    "Quarrel Falls"
+    "Ventari's Refuge"
+
+	// Mission outposts
+	node [ shape = invhouse ]
+
+    "Aurora Glade"
+    "Bloodstone Fen"
+    "The Wilds"
+	"Riverside Province"
+
+
+	// Explorable areas
+	node [ shape = rectangle ]
+
+    "Dry Top"
+    "Ettin's Back"
+    "Majesty's Rest"
+    "Mamnoon Lagoon"
+    "Reed Bog"
+    "Sage Lands"
+    "Silverwood"
+    "Tangle Root"
+    "The Falls"
+	
+	//
+	"Druid's Overlook" -- "Sage Lands"
+	
+	"Sage Lands" -- "Majesty's Rest"
+	"Sage Lands" -- "Mamnoon Lagoon"
+	"Sage Lands" -- "The Wilds"
+	
+	"The Wilds" -- "Bloodstone Fen" [ style = dotted, label = "Completing the mission", dir = forward ]
+
+    "Bloodstone Fen" -- Silverwood
+	Silverwood -- "Ettin's Back"
+	Silverwood -- "Mamnoon Lagoon"
+	Silverwood -- "Quarrel Falls"
+	"Bloodstone Fen" -- "Quarrel Falls" [ style = dotted, label = "Completing the mission", dir = forward ]
+
+    "Ettin's Back" -- "Aurora Glade"
+    "Ettin's Back" -- "Dry Top"
+    "Ettin's Back" -- "Reed Bog"
+    //"Ettin's Back" -- "Silverwood"
+    "Ettin's Back" -- "Ventari's Refuge"
+	
+	"Aurora Glade" -- "Henge of Denravi" [ style = dotted, label = "Completing the mission", dir = forward ]
+
+	"Dry Top" -- "Tangle Root"
+	"Tangle Root" -- "Henge of Denravi"
+	"Tangle Root" -- "Maguuma Stade"
+	"Tangle Root" -- "Riverside Province" [ dir = forward, label = "Passage Through The Dark River" ]
+
+	"Reed Bog" -- "The Falls"
+	
+	/* This. Is. Krytaaaaaaaaa!
+	*/
+}

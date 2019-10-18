@@ -1,0 +1,68 @@
+graph SouthernShiverpeaks {
+	"Beacon's Perch"
+
+	"Camp Rankor"
+	"Droknar's Forge" [ shape = doubleoctagon ]
+	"Copperhammer Mines"
+	"Deldrimor War Camp"
+    "Marhan's Grotto"
+    "Port Sledge"
+    "The Granite Citadel"
+
+	// Mission outposts
+	node [ shape = invhouse ]
+
+    "Ice Caves of Sorrow"
+    "Iron Mines of Moladune"
+    "Thunderhead Keep"
+
+	"Ice Caves of Sorrow" -- "Iron Mines of Moladune" [ style = dotted, label = "Completing the mission", dir = forward ]
+	"Iron Mines of Moladune" -- "Thunderhead Keep"    [ style = dotted, label = "Completing the mission", dir = forward ]
+
+	// Explorable areas
+	node [ shape = rectangle ]
+
+    "Dreadnought's Drift"
+    "Droknar's Forge"
+    "Frozen Forest"
+    "Grenth's Footprint"
+    "Ice Floe"
+    "Icedome"
+    "Lornar's Pass"
+    "Mineral Springs"
+    "Snake Dance"
+    "Sorrow's Furnace"
+    "Spearhead Peak"
+    "Talus Chute"
+    "Tasca's Demise"
+    "Witman's Folly"
+
+	"Beacon's Perch" -- "Lornar's Pass"
+	"Lornar's Pass" -- "The Underworld"
+	"Lornar's Pass" -- "Dreadnought's Drift"
+	"Dreadnought's Drift" -- "Snake Dance"
+	"Snake Dance" -- "Camp Rankor"
+	"Camp Rankor" -- "Talus Chute"
+
+	"Droknar's Forge" -- "Witman's Folly"
+	"Witman's Folly"  -- "Port Sledge"
+
+	"Droknar's Forge" -- "Talus Chute"
+	
+	"Talus Chute" -- "Ice Caves of Sorrow"
+	"Talus Chute" -- "Icedome"
+	"Icedome" -- "Frozen Forest"
+	"Frozen Forest" -- "Copperhammer Mines" 
+	"Frozen Forest" -- "Ice Floe"
+	"Frozen Forest" -- "Iron Mines of Moladune"
+	"Copperhammer Mines" -- "Spearhead Peak"
+	"Spearhead Peak" -- "Grenth's Footprint"
+	"Spearhead Peak" -- "The Granite Citadel"
+	"Grenth's Footprint" -- "Deldrimor War Camp"
+	"Grenth's Footprint" -- "Snake Dance"
+	"Grenth's Footprint" -- "Sorrow's Furnace"
+	"The Granite Citadel" -- "Tasca's Demise"
+	"Tasca's Demise" -- "Mineral Springs"
+	"Ice Floe" -- "Marhan's Grotto"
+	"Ice Floe" -- "Thunderhead Keep"
+}
