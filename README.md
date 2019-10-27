@@ -7,3 +7,7 @@ and quests to complete.
 [Post-Nightfall](Post-Nightfall.md) - optimized order of quests for players who just beat Nightfall.
 
 maps - maps of various areas in [Graphviz](https://graphviz.org/) format.
+
+--
+
+Feel free to open issue or create pull requests.
