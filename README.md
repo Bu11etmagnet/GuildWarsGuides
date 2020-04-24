@@ -6,7 +6,7 @@ and quests to complete.
 
 [Post-Nightfall](Post-Nightfall.md) - optimized order of quests for players who just beat Nightfall.
 
-<GuildWars.ics> - Zaishen Bounty schedule and some quick Zaishen Missions in vCalendar format.
+[GuildWars.ics](GuildWars.ics) - Zaishen Bounty schedule and some quick Zaishen Missions in vCalendar format.
 
 maps - maps of various areas in [Graphviz](https://graphviz.org/) format.
 
