@@ -27,7 +27,7 @@ reducing the need for backtracking.
 1. Exit into Ferndale and follow "The Beak of Darkness". Keep right until Aspenwood.
    Watch out: Tarlok Evermind is in your path.
 1. Exit into Ferndale. Get "Envoy of the Dredge". Go to HzH.
-   Alternatibely, go capture Signet of Spirits first.
+   Alternatively, go capture Signet of Spirits first.
 1. Turn in "Melodic Gaki Flute". Pick up "Discord Wallow Lyre"
 1. Turn in "Journey to HzH". Continue "Envoy of the Dredge". Pick up "Befriending the Kurzicks".
 1. Go to Brauer Academy. Exit into Drazach Thicket (north if you want the blessing).
