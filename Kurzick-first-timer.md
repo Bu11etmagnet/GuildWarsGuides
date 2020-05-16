@@ -6,6 +6,11 @@ A guide for players who just arrived at House zu Helzer
 There are many quests in the Echovald Forest. Some could be done simultaneously,
 reducing the need for backtracking.
 
+Before starting, cash in any existing Luxon faction.
+
+Every time you enter an explorable area, talk to the Kurzick Priest
+to get the blessing. Fighting under Blessing of the Kurzicks results in more faction.
+
 1. Arrive at [HzH](https://wiki.guildwars.com/wiki/House_zu_Heltzer)
 1. Get the "Melodic Gaki Flute" quest from Vasili Lutgardis
 1. Get the "Ancient Forest" quest from Scholar Andrej
@@ -15,7 +20,10 @@ reducing the need for backtracking.
 1. Get the "Experimental Weaponsmith" quest from him
 1. Get the "The Beak of Darkness" quest from Rutger zH
 1. Exit into Ferndale
-1. Get the "Kurzick supply lines" quest from Supplymaster Konrad
+1. Get the "Kurzick supply lines" quest from Supplymaster Konrad.
+   This is a repeatable quest, most useful for caster characters.
+   Having to repeatedly drop and pick up the supplies to get access to weapons
+   makes this less practical for melee characters.
 1. Go right to the Melodic Gaki and get its horn
 1. Continue to the "Experimental Weaponsmith" / "The Beak of Darkness".
    Watch out for Oni popups.
@@ -38,9 +46,21 @@ reducing the need for backtracking.
    Go to Lutgardis, exit into Melandru's Hope and cross the bridge
    to the other side of the river. Kill the Rhythm Drinker and get its wing.
 
-TODO: [Jun](https://wiki.guildwars.com/wiki/Jun) in HzH offers Artistic Endeavors.
+The rewards for the quest chain from Vasili Lutgardis can be saved up if needed.
+Talking to Vasili Lutgardis removes the quest item from the inventory
+and brings up the reward dialog. This frees up the inventory slot
+and allows cashing in the reward later.
+
+TODO: Incorporate the following:
+
++ [Jun](https://wiki.guildwars.com/wiki/Jun) in HzH offers Artistic Endeavors.
 The Sly Dredge is closest to Jade Flats (Kurzick),
 but it's on the opposite (west) side from where we reach Jade Flats.
 
 + Eternal Grove
-* Get the "Invoking the Saints" quest from Count zH
++ Get the "Invoking the Saints" quest from Count zH - all you need is to visit
+Vasburg Armory, Lutgardis Conservatory, Brauer Academy and Durheim Archives.
+Vasburg Armory and Durheim Archives are normally reachable after completing
+Eternal Grove, or by walking "backwards" from Unwaking Waters (Kurzick)
+after completing Unwaking Waters from the Luxon side and walking from
+Harvest Temple.
