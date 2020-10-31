@@ -1,6 +1,6 @@
 # Kurzick first-timer guide.
 
-A guide for players who just arrived at House zu Helzer
+A guide for players who just arrived at House zu Heltzer
 (Journey to House zu Heltzer after Sunjiang District).
 
 There are many quests in the Echovald Forest. Some could be done simultaneously,
@@ -32,7 +32,7 @@ to get the blessing. Fighting under Blessing of the Kurzicks results in more fac
 1. Exit back into Melandru's Hope and follow "The Beak of Darkness"
 1. Keep right till Jade Flats
 1. Return to Lutgardis
-1. Exit into Ferndale and follow "The Beak of Darkness". Keep right until Aspenwood.
+1. Exit into Ferndale and follow "The Beak of Darkness". Keep right until Aspenwood Gate.
    Watch out: [Tarlok Evermind](https://wiki.guildwars.com/wiki/Tarlok_Evermind) is in your path.
 1. Exit into Ferndale. Get "Envoy of the Dredge". Go to HzH.
    Alternatively, go capture [Signet of Spirits](https://wiki.guildwars.com/wiki/Signet_of_Spirits) first.
@@ -45,6 +45,11 @@ to get the blessing. Fighting under Blessing of the Kurzicks results in more fac
 1. Go to HzH and turn in "Discord Wallow Lyre". Pick up "Rhythm Drinker Drum".
    Go to Lutgardis, exit into Melandru's Hope and cross the bridge
    to the other side of the river. Kill the Rhythm Drinker and get its wing.
+1. Go to HzH and turn in "Rhythm Drinker Drum".
+1. Go to Aspenwood Gate and switch to Ranger secondary. Equip [Charm Animal](https://wiki.guildwars.com/wiki/Charm_Animal).
+   Exit into Ferndale and accept the reward for "Envoy of the Dredge".
+1. Clear out the roving patrols around the Black Moa, set your heroes to Avoid Combat,
+   and charm the Black Moa. Return to HzH and claim the reward from Rutger zu Heltzer.
 
 The rewards for the quest chain from Vasili Lutgardis can be saved up if needed.
 Talking to Vasili Lutgardis removes the quest item from the inventory
