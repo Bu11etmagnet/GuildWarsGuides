@@ -63,6 +63,8 @@ The Sly Dredge is closest to Jade Flats (Kurzick),
 but it's on the opposite (west) side from where we reach Jade Flats.
 
 + Eternal Grove
++ Get the "Wicked Wardens" quest from Dunmel Gorhopf. Any further adventuring
+  in the Echovald Forest will automa
 + Get the "Invoking the Saints" quest from Count zH - all you need is to visit
 Vasburg Armory, Lutgardis Conservatory, Brauer Academy and Durheim Archives.
 Vasburg Armory and Durheim Archives are normally reachable after completing
